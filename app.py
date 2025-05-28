@@ -131,4 +131,4 @@ if st.sidebar.button("运行预测"):
     col3.metric("最优值", f"{best_value:.4f}")
 
     st.markdown("---")
-    st.info("提示：您可以调整侧边栏中的自变量输入，点击“运行预测”实时查看结果。。")
+    st.info("提示：您可以调整侧边栏中的自变量输入，点击“运行预测”实时查看结果。")
