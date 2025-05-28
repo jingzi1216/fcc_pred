@@ -65,7 +65,7 @@ st.set_page_config(
     layout='wide'
 )
 
-st.title("基于随机森林的产品性能预测与最优值计算")
+st.title("催化裂化装置预测与最优值计算")
 st.markdown("---")
 
 # 输入区放在侧边栏
